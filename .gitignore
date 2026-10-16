@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw LRS responses from compare_methods.py
+output/lrs_raw_responses/
